@@ -17,7 +17,7 @@ A robust desktop application for managing the issuance, renewal, and suspension 
 
 ## 🔑 Login Credentials (For Testing)
 To access the system immediately after installation, use the following default admin credentials:
-* **Username:** `admin`
+* **Username:** `sajjad`
 * **Password:** `12345`
   
 ## ⚙️ Setup & Installation
