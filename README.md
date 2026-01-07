@@ -32,6 +32,7 @@ To access the system immediately after installation, use the following default a
     * Open the solution in Visual Studio.
     * Ensure the connection string in the DataAccessLayer matches your server.
     * Build and Run.
+    * If the DataLayer and BussinessLayer (Not Found) in the solution try yo remove and add them again form visual studio and add the refrence for Bussiness Layer in the main App
 
 ## 📸 Screenshots
 <img width="1915" height="1075" alt="Screenshot 2026-01-06 161525" src="https://github.com/user-attachments/assets/527507bd-f5a6-497d-9e1a-58f421dfcfd5" />
