@@ -27,7 +27,7 @@ To access the system immediately after installation, use the following default a
     ```
     
 2.  **Database Setup:**
-    * **Crucial Step:** Run the `DataBaseSetup.sql` file found in the root directory to set up the database structure and initial data.
+    * **Crucial Step:**Create a New DataBase with the Name `DVLD` then Run the `DataBaseSetup.sql` file found in the root directory to set up the database structure and initial data.
 3.  **Run:**
     * Open the solution in Visual Studio.
     * Ensure the connection string in the DataAccessLayer matches your server.
