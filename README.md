@@ -23,11 +23,11 @@ To access the system immediately after installation, use the following default a
 ## ⚙️ Setup & Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SajjadAliDev12/DVLD-Program.git](https://github.com/SajjadAliDev12/DVLD-Program.git)
+    git clone [https://github.com/SajjadAliDev12/DVLD-Program.git]
     ```
-    *(Note: Replace `DVLD-Program` with your actual repo name if different)*
+    
 2.  **Database Setup:**
-    * **Crucial Step:** Run the `DVLD_Database_Script.sql` file found in the root directory to set up the database structure and initial data.
+    * **Crucial Step:** Run the `DataBaseSetup.sql` file found in the root directory to set up the database structure and initial data.
 3.  **Run:**
     * Open the solution in Visual Studio.
     * Ensure the connection string in the DataAccessLayer matches your server.
